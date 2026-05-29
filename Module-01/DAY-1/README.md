@@ -50,6 +50,3 @@ public class Main
 
 ## RESULT:
 Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
-
-
-Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
